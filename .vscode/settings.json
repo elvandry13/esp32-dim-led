@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "pwm1.h": "c"
+        "stdio.h": "c",
+        "hd44780.h": "c",
+        "i2c.h": "c",
+        "esp_log.h": "c",
+        "ets_sys.h": "c",
+        "freertos.h": "c",
+        "sdkconfig.h": "c",
+        "lcd2004a.h": "c"
+    }
+}
